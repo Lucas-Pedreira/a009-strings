@@ -7,4 +7,3 @@ console.log (novaFrase)
 
 
 
-//const minhaString100.trim()
